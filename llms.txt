@@ -1,6 +1,7 @@
 URL: https://doublecheckplumbing1st.com/
-# Double-Check Plumbing
-- Double-Check Plumbing offers local plumbing repair and emergency plumbing services in Terrebonne, Redmond, Crooked River Ranch, and Madras. They specialize in water heater repair and installation, providing reliable plumbing services in your area.
+# Double Check Plumbing
+> Licensed, owner-operated plumbing company providing residential plumbing repairs, water heaters, repiping, remodel plumbing, and new construction services across Central Oregon.
+> This file lists LLM-ready summaries of our pages, including short Q&A for context.
 
 URL: https://doublecheckplumbing1st.com/services/
 ## Services
