@@ -1,16 +1,68 @@
-URL: https://doublecheckplumbing1st.com/
+
 # Double Check Plumbing
+- Double Check Plumbing (https://doublecheckplumbing1st.com/)
 > Licensed, owner-operated plumbing company providing residential plumbing repairs, water heaters, repiping, remodel plumbing, and new construction services across Central Oregon.
 > This file lists LLM-ready summaries of our pages, including short Q&A for context.
 
-URL: https://doublecheckplumbing1st.com/services/
 ## Services
+- Services (https://doublecheckplumbing1st.com/services/)
 - A comprehensive list of plumbing services provided by Double-Check Plumbing, including emergency repairs, installations, and maintenance for various plumbing systems.
 
-URL: https://doublecheckplumbing1st.com/faq/
+## New Construction Plumbing
+[New Construction Plumbing](https://doublecheckplumbing1st.com/new-construction-plumbing-central-oregon/)
+- New Construction Plumbing in Central Oregon. New construction plumbing in Central Oregon, specializing in complete plumbing system installation, code-compliant planning, rough-in plumbing, fixture installation, testing, and inspections for residential construction projects.
+- **Q:** What does new construction plumbing include?
+- **A:** New construction plumbing includes planning the plumbing layout, installing water, drain, and vent lines, setting fixtures, testing the system, and completing final inspections.
+- **Q:** What is the rough-in phase of a plumbing installation?
+- **A:** Rough-in plumbing is the stage where the main water supply lines, drain lines, and vent piping are installed before walls and floors are finished.
+- **Q:** Why is code-compliant plumbing installation important?
+- **A:** Code-compliant installation helps ensure the plumbing system passes inspections, operates safely, and provides reliable long-term performance.
+
+## Plumbing Repair
+[Plumbing Repair](https://doublecheckplumbing1st.com/plumbing-repair-central-oregon/)
+- Plumbing Repair in Central Oregon. Residential plumbing repair in Central Oregon, including leak detection, pipe repairs, fixture repairs, emergency plumbing services, and long-lasting solutions backed by thorough diagnostics.
+- **Q:** What types of plumbing problems can be repaired?
+- **A:** Residential plumbing repairs include leaking pipes, burst pipes, plumbing leaks, low water pressure, faucet and toilet issues, and other common plumbing problems.
+- **Q:** Do plumbing repairs include leak and pipe repairs?
+- **A:** Yes. Plumbing repair services commonly include plumbing leak repair, pipe repair, and repairs to fixtures throughout the home.
+- **Q:** Can plumbing repairs improve low water pressure?
+- **A:** Yes. Low water pressure is one of the common residential plumbing issues that can often be diagnosed and repaired.
+
+## Water Heater Installation and Repair
+[Water Heater Installation and Repair](https://doublecheckplumbing1st.com/water-heater-installation-and-repair-central-oregon/)
+- Water Heater Installation and Repair in Central Oregon. Water heater installation and repair in Central Oregon, including tank and tankless water heaters, system diagnostics, repairs, replacements, and emergency hot water services.
+- **Q:** What are the signs that a water heater needs repair?
+- **A:** Common signs include inconsistent hot water, rising energy bills, rust-colored water, unusual noises, leaks, or running out of hot water sooner than expected.
+- **Q:** What is the difference between repairing and replacing a water heater?
+- **A:** Repairs address specific issues affecting the existing unit, while replacement involves installing a new system when repairs are no longer practical or cost-effective.
+- **Q:** When is emergency water heater repair necessary?
+- **A:** Emergency service is recommended when a water heater is leaking, has stopped producing hot water, or has experienced a sudden failure.
+
+## Kitchen & Bathroom Remodel Plumbing
+[Kitchen & Bathroom Remodel Plumbing](https://doublecheckplumbing1st.com/remodel-plumbing-central-oregon/)
+- Kitchen & Bathroom Remodel Plumbing in Central Oregon. Remodel plumbing in Central Oregon, including kitchen and bathroom plumbing upgrades, fixture relocations, plumbing modifications, and code-compliant plumbing renovations for residential remodeling projects.
+- **Q:** What is remodel plumbing?
+- **A:** Remodel plumbing involves modifying or upgrading existing plumbing systems to accommodate renovations, new layouts, updated fixtures, and improved functionality.
+- **Q:** Why should plumbing be updated during a home remodel?
+- **A:** Updating plumbing during a remodel improves reliability, supports modern fixtures, increases efficiency, and helps ensure the system meets current plumbing codes.
+- **Q:** Can plumbing fixtures be relocated during a remodel?
+- **A:** Yes. Remodel plumbing often includes relocating sinks, toilets, showers, and other fixtures to match a new room layout.
+
+## Plumbing Fixture & Valve Replacement
+[Plumbing Fixture & Valve Replacement](https://doublecheckplumbing1st.com/plumbing-replacement-central-oregon/)
+- Plumbing Fixture & Valve Replacement in Central Oregon. Plumbing replacement in Central Oregon, replacing worn fixtures, valves, toilets, sinks, faucets, showers, and other plumbing components to improve reliability and long-term performance.
+- **Q:** What is included in plumbing replacement services?
+- **A:** Plumbing replacement services commonly include replacing fixtures, valves, faucets, toilets, sinks, showers, and other worn plumbing components.
+- **Q:** When should plumbing fixtures be replaced instead of repaired?
+- **A:** Replacement is often the better option when fixtures are outdated, severely worn, repeatedly leaking, or no longer functioning reliably.
+- **Q:** What are the signs that a plumbing valve should be replaced?
+- **A:** Common signs include recurring leaks, corrosion, stuck handles, pressure issues, or poor overall performance.
+
+
 ## FAQ
+-FAQ (https://doublecheckplumbing1st.com/faq/)
 - A section addressing frequently asked questions about plumbing services, pricing, and emergency procedures.
 
-URL: https://doublecheckplumbing1st.com/blog/
 ## Blog
+- Blog (https://doublecheckplumbing1st.com/blog/)
 - A blog featuring articles on plumbing tips, maintenance advice, and industry news relevant to homeowners and plumbing enthusiasts.
