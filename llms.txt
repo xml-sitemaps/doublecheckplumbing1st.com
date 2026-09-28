@@ -1,11 +1,11 @@
 
 # Double Check Plumbing
-- Double Check Plumbing (https://doublecheckplumbing1st.com/)
+[Double Check Plumbing](https://doublecheckplumbing1st.com/)
 > Licensed, owner-operated plumbing company providing residential plumbing repairs, water heaters, repiping, remodel plumbing, and new construction services across Central Oregon.
 > This file lists LLM-ready summaries of our pages, including short Q&A for context.
 
 ## Services
-- Services (https://doublecheckplumbing1st.com/services/)
+[Services](https://doublecheckplumbing1st.com/services/)
 - A comprehensive list of plumbing services provided by Double-Check Plumbing, including emergency repairs, installations, and maintenance for various plumbing systems.
 
 ## New Construction Plumbing
@@ -106,6 +106,56 @@
 - **Q:** Are emergency plumbing services available in Terrebonne?
 - **A:** Yes, Double Check Plumbing provides emergency response for issues such as burst pipes, leaks, fixture failures, and other urgent plumbing problems.
 - **Q:** Can a plumber in Terrebonne handle water heater installation and repair?
+- **A:** Yes, Double Check Plumbing services tank and tankless water heaters, including repairs, replacements, and installations.
+
+## Plumber Redmond
+[Plumber Redmond](https://doublecheckplumbing1st.com/plumber-redmond/)
+- Its Not Just Plumbing, Its Your Life! Licensed, owner-operated residential plumbing services in Redmond, Oregon, including repairs, water heaters, remodel plumbing, repiping, new construction, and water, sewer, and gas line services.
+- **Q:** What plumbing services are available in Redmond, Oregon?
+- **A:** Services include new construction plumbing, plumbing repairs, water heater service, remodel plumbing, fixture and valve replacements, water, sewer and gas lines, home plumbing additions, and whole-home repiping.
+- **Q:** Are emergency plumbing services available in Redmond?
+- **A:** Yes, Double Check Plumbing provides emergency response for issues such as burst pipes, leaks, fixture failures, and other urgent plumbing problems.
+- **Q:** Can a plumber in Redmond handle water heater installation and repair?
+- **A:** Yes, Double Check Plumbing services tank and tankless water heaters, including repairs, replacements, and installations.
+
+## Plumber Bend
+[Plumber bend](https://doublecheckplumbing1st.com/plumber-bend/)
+- Its Not Just Plumbing, Its Your Life! Licensed, owner-operated residential plumbing services in Bend, Oregon, including repairs, water heaters, remodel plumbing, repiping, new construction, and water, sewer, and gas line services.
+- **Q:** What plumbing services are available in Bend, Oregon?
+- **A:** Services include new construction plumbing, plumbing repairs, water heater service, remodel plumbing, fixture and valve replacements, water, sewer and gas lines, home plumbing additions, and whole-home repiping.
+- **Q:** Are emergency plumbing services available in Bend?
+- **A:** Yes, Double Check Plumbing provides emergency response for issues such as burst pipes, leaks, fixture failures, and other urgent plumbing problems.
+- **Q:** Can a plumber in Bend handle water heater installation and repair?
+- **A:** Yes, Double Check Plumbing services tank and tankless water heaters, including repairs, replacements, and installations.
+
+## Plumber Prineville
+[Plumber prineville](https://doublecheckplumbing1st.com/plumber-prineville/)
+- Its Not Just Plumbing, Its Your Life! Licensed, owner-operated residential plumbing services in Prineville, Oregon, including repairs, water heaters, remodel plumbing, repiping, new construction, and water, sewer, and gas line services.
+- **Q:** What plumbing services are available in Prineville, Oregon?
+- **A:** Services include new construction plumbing, plumbing repairs, water heater service, remodel plumbing, fixture and valve replacements, water, sewer and gas lines, home plumbing additions, and whole-home repiping.
+- **Q:** Are emergency plumbing services available in Prineville?
+- **A:** Yes, Double Check Plumbing provides emergency response for issues such as burst pipes, leaks, fixture failures, and other urgent plumbing problems.
+- **Q:** Can a plumber in Prineville handle water heater installation and repair?
+- **A:** Yes, Double Check Plumbing services tank and tankless water heaters, including repairs, replacements, and installations.
+
+## Plumber Sisters
+[Plumber Sisters](https://doublecheckplumbing1st.com/plumber-sisters/)
+- Its Not Just Plumbing, Its Your Life! Licensed, owner-operated residential plumbing services in Sisters, Oregon, including repairs, water heaters, remodel plumbing, repiping, new construction, and water, sewer, and gas line services.
+- **Q:** What plumbing services are available in Sisters, Oregon?
+- **A:** Services include new construction plumbing, plumbing repairs, water heater service, remodel plumbing, fixture and valve replacements, water, sewer and gas lines, home plumbing additions, and whole-home repiping.
+- **Q:** Are emergency plumbing services available in Sisters, Oregon?
+- **A:** Yes, Double Check Plumbing provides emergency response for issues such as burst pipes, leaks, fixture failures, and other urgent plumbing problems.
+- **Q:** Can a plumber in Sisters, Oregon, handle water heater installation and repair?
+- **A:** Yes, Double Check Plumbing services tank and tankless water heaters, including repairs, replacements, and installations.
+
+## Plumber Tumalo
+[Plumber Tumalo](https://doublecheckplumbing1st.com/plumber-tumalo/)
+- Its Not Just Plumbing, Its Your Life! Licensed, owner-operated residential plumbing services in Tumalo, Oregon, including repairs, water heaters, remodel plumbing, repiping, new construction, and water, sewer, and gas line services.
+- **Q:** What plumbing services are available in Tumalo, Oregon?
+- **A:** Services include new construction plumbing, plumbing repairs, water heater service, remodel plumbing, fixture and valve replacements, water, sewer and gas lines, home plumbing additions, and whole-home repiping.
+- **Q:** Are emergency plumbing services available in Tumalo?
+- **A:** Yes, Double Check Plumbing provides emergency response for issues such as burst pipes, leaks, fixture failures, and other urgent plumbing problems.
+- **Q:** Can a plumber in Tumalo handle water heater installation and repair?
 - **A:** Yes, Double Check Plumbing services tank and tankless water heaters, including repairs, replacements, and installations.
 
 ## FAQ
